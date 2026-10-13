@@ -38,3 +38,5 @@ LoanPredictor/
 ├── Frontend/      # Main user-facing app (React)
 ├── .gitignore
 ├── README.md
+
+Last updated: 2026-10-13 15:52 UTC
